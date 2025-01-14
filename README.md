@@ -5,6 +5,8 @@ About
 Digits is a simple GUI finger client for Windows. I tend to keep a C++Builder install 
 around but never actually use it, so I built this.
 
+![Screenshot of Digits 1.0.0](https://github.com/rnelson/digits/blob/main/docs/digits-1.0.0.png)
+
 Features
 --------
 * Has a textbox to specify the username
