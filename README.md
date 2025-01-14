@@ -13,7 +13,7 @@ Features
 * Has a textbox to specify the hostname
 * Has a button to fire off the query
 * Has a multi-line textbox to display the results
-* Freezes while making the query like any good 90s GUI application, even if it was built in 2024
+* Freezes while making the query like any good 90s GUI application, even if it was built in 2024 (who needs more than one thread anyway?!)
 
 Requirements
 ------------
